@@ -2,7 +2,7 @@
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.65 "Segoe UI",system-ui,-apple-system,sans-serif}
 a{color:#ff8a7d}header,main,footer{max-width:820px;margin:0 auto;padding:0 24px}
 header{display:flex;align-items:center;gap:12px;padding-top:28px;padding-bottom:12px}
-.logo{width:36px;height:36px;border-radius:9px;background:var(--accent);display:grid;place-items:center;color:#fff;font-weight:700}
+.logo{width:36px;height:36px;border-radius:10px;background:linear-gradient(135deg,#6d5dfc,#22c3a6);display:grid;place-items:center;color:#fff;font-weight:700}
 header .name{font-weight:700;font-size:18px}header nav{margin-left:auto;display:flex;gap:18px;font-size:14px}
 header nav a{color:var(--ink2);text-decoration:none}header nav a:hover{color:var(--ink)}
 h1{font-size:34px;line-height:1.2;margin:36px 0 8px}h2{font-size:21px;margin:34px 0 8px}
